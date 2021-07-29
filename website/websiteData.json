@@ -2,7 +2,7 @@
 {
     "navigation": {
         "logo": {
-            "imageSrc": "/surfboard-logo.png",
+            "imageSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
             "alt": "website logo"
         },
         "navLinks": [
@@ -30,17 +30,17 @@
         ],
         "hamburger": 
         {
-            "imageSrc": "/menu-black.png",
-            "closeSrc": "/close.png"
+            "imageSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/menu-black.png",
+            "closeSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/close.png"
         }
     },
     "banner": {
         "bannerImage": {
-            "imageSrc": "/banner2.png",
+            "imageSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/banner2.png",
             "alt": "Banner Background"
           },
-          "heading": "Company Name",
-          "subtitle": "Subtitle for the webpage banner",
+          "heading": "Raw Engineering",
+          "subtitle": "Build. Innovate. Grow.",
           "cta": {
             "link": "Contact Us",
             "href": "#"
@@ -51,17 +51,20 @@
         "copyrightText": "2021 Raw Engineering",
         "socialLinks": [
           {
-            "linkID": "link1",
+            "linkID" : "link1",
+            "icon-class": "fa-github",
             "href": "#",
             "link": "Github"
           },
           {
             "linkID": "link2",
+            "icon-class": "fa-linkedin",
             "href": "#",
             "link": "LinkedIn"
           },
           {
-            "linkID": "link3",
+            "linkID":"link3",
+            "icon-class": "fa-instagram",
             "href": "#",
             "link": "Instagram"
           }
