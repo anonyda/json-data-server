@@ -1,0 +1,71 @@
+
+{
+    "navigation": {
+        "logo": {
+            "imageSrc": "/surfboard-logo.png",
+            "alt": "website logo"
+        },
+        "navLinks": [
+            {
+                "linkID": "link1",
+                "href": "#",
+                "link": "Home"
+            },
+            {
+                "linkID": "link2",
+                "href": "#",
+                "link": "Our Work"
+            },
+            {
+                "linkID": "link3",
+                "href": "#",
+                "link": "About Us"
+            },
+            {
+                "linkID": "link4",
+                "href": "#",
+                "link": "Contact",
+                "isCTA": true
+            }
+        ],
+        "hamburger": 
+        {
+            "imageSrc": "/menu-black.png",
+            "closeSrc": "/close.png"
+        }
+    },
+    "banner": {
+        "bannerImage": {
+            "imageSrc": "/banner2.png",
+            "alt": "Banner Background"
+          },
+          "heading": "Company Name",
+          "subtitle": "Subtitle for the webpage banner",
+          "cta": {
+            "link": "Contact Us",
+            "href": "#"
+        }
+    },
+    "footer": 
+    {
+        "copyrightText": "2021 Raw Engineering",
+        "socialLinks": [
+          {
+            "linkID": "link1",
+            "href": "#",
+            "link": "Github"
+          },
+          {
+            "linkID": "link2",
+            "href": "#",
+            "link": "LinkedIn"
+          },
+          {
+            "linkID": "link3",
+            "href": "#",
+            "link": "Instagram"
+          }
+        ]
+    }
+   
+}
