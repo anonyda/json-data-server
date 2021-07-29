@@ -52,19 +52,19 @@
         "socialLinks": [
           {
             "linkID" : "link1",
-            "icon-class": "fa-github",
+            "iconClass": "fa-github",
             "href": "#",
             "link": "Github"
           },
           {
             "linkID": "link2",
-            "icon-class": "fa-linkedin",
+            "iconClass": "fa-linkedin",
             "href": "#",
             "link": "LinkedIn"
           },
           {
             "linkID":"link3",
-            "icon-class": "fa-instagram",
+            "iconClass": "fa-instagram",
             "href": "#",
             "link": "Instagram"
           }
