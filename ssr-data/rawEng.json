@@ -1,0 +1,28 @@
+{
+	"id": "raw_xyz",
+	"title": "Raw Engineering",
+	"logoURL": "https://res.cloudinary.com/dovryupcr/image/upload/v1631030205/hkxpcds02djw5ldeaurq.jpg",
+	"companyName": "Raw Engineering",
+	"companyTagline": "Fast Track Innovation From Vision to Reality",
+    "bannerContent": "Raw Engineering’s experienced Strategic Consultants, Solutions Architects, Designers, and Developers turn Business Vision into Digital Reality.",
+	"sections": [
+		{
+			"sectionId": "Leao2VwtVn",
+			"title": "Digital Transformation: Building the Modern Microservices Stack",
+			"subtitle": "Raw Engineering was an early leader in the movement to architect and build the modern, microservices-driven tech stack. We bring strategic thinking and years of experience to help our clients transform their Digital Enterprise.",
+			"bannerImageURL": "https://res.cloudinary.com/dovryupcr/image/upload/v1631028347/rfdkohibcolb0umosm0h.jpg"
+		},
+		{
+			"sectionId": "j0L5XyGSmR",
+			"title": "Headless CMS Strategy & Implementation",
+			"subtitle": "Raw Engineering pioneered the Headless CMS space. We innovated, built and spun out Contentstack, the industry’s leading headless CMS. Now, we help our clients strategically evaluate, implement and maintain their Headless CMS. We analyze how our customers intend to deliver content, in what channels they intend to present content, who will be creating content and who will be consuming the content. We work with both Marketing and IT teams to enable the best Headless CMS experience for each client.",
+			"bannerImageURL": "https://res.cloudinary.com/dovryupcr/image/upload/v1631028562/zkpxbj0yzijhy04dordh.jpg"
+		},
+		{
+			"sectionId": "AcAAmC57bK",
+			"title": "Custom Mobile, Web & Product Development",
+			"subtitle": "We have over two million hours of experience building mobile apps and websites that scale to millions of users. If you’re looking for a team that delivers enterprise quality and functionality at startup speed, we have you covered.",
+			"bannerImageURL": "https://res.cloudinary.com/dovryupcr/image/upload/v1631028899/wqyxv2uq3khexjeoec3n.jpg"
+		}
+	]
+}
